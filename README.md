@@ -1,5 +1,8 @@
-# Gnome (Winner 2nd Place at UCLA's IDEAHacks 2021 TI Category)
+# Gnome 
 ## Your Personal Garden Guardian
+
+## (Winner 2nd Place at UCLA's IDEAHacks 2021 TI Category)
+
 
 ## [Submission Presentation](https://docs.google.com/presentation/d/11Ixt3rfedLE8AeXcQBAZqoIsa3wnspQZ_MxCipB95gg/edit?usp=sharing)
 
